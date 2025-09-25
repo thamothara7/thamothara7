@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Thamothara Natarajan👋
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&width=435&lines=Aspiring+Full+Stack+Developer;Open+Source+Enthusiast;Always+learning+new+things)](https://git.io/typing-svg)
 
