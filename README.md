@@ -81,6 +81,7 @@ I'm a passionate developer who loves creating innovative solutions and contribut
   <img src="https://raw.githubusercontent.com/thamothara7/thamothara7/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
+
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thamotharanatarajan/)
@@ -90,7 +91,7 @@ I'm a passionate developer who loves creating innovative solutions and contribut
 
 ## 📊 Profile Views
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=thamothara7&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
 
 ## 💰 Support My Work
