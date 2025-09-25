@@ -76,11 +76,6 @@ I'm a passionate developer who loves creating innovative solutions and contribut
 ## 📈 Activity Graph
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=thamothara7&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-## 🔥 Contribution Snake
-<div align="center">
-  <img src="https://raw.githubusercontent.com/thamothara7/thamothara7/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
-
 
 ## 📫 Connect with Me
 
