@@ -175,23 +175,6 @@ fun_fact: I name my side projects before I start them
 
 </div>
 
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thamothara7/thamothara7/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thamothara7/thamothara7/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/thamothara7/thamothara7/output/github-contribution-grid-snake.svg" />
-</picture>
-
-</div>
-
-> ⚠️ Enable the snake by adding [this GitHub Action](https://github.com/Platane/snk) to `.github/workflows/snake.yml` in your profile repo.
-
----
 
 <div align="center">
 
