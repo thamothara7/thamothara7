@@ -161,9 +161,7 @@ fun_fact: I name my side projects before I start them
 ```
 [ ] Ship Portfolio v3 publicly
 [ ] Contribute to 5+ open source repos  
-[ ] Win a hackathon (or at least top 3 🙂)
 [ ] Build an AI agent project
-[ ] Hit 100 GitHub stars across projects
 [ ] Learn system design deeply
 ```
 
