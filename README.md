@@ -29,7 +29,7 @@
 
 ```yaml
 name: Thamothara Natarajan
-alias: thamothara7
+alias: Thamo
 location: Chennai, Tamil Nadu 🇮🇳
 role: Full Stack Developer
 
