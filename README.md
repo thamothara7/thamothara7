@@ -154,7 +154,7 @@ fun_fact: I name my side projects before I start them
 
 ---
 
-## 🎯 2025 Goals
+## 🎯 2026 Goals
 
 ```
 [ ] Ship Portfolio v3 publicly
