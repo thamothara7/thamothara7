@@ -28,23 +28,23 @@
 ## 🧑‍💻 About Me
 
 ```yaml
-name: Thamothara Natarajan
-alias: Thamo
-location: Chennai, Tamil Nadu 🇮🇳
-role: Full Stack Developer
+Name: Thamothara Natarajan
+Alias: Thamo
+Location: Chennai, Tamil Nadu 🇮🇳
+Role: Full Stack Developer
 
-currently:
-  - learning: Advanced React + System Design
-  - building: Portfolio v3 · KNK Trip Cart
-  - exploring: Web3 · AI Agents · Hackathons
+Currently:
+  - Learning: Advanced React + System Design
+  - Building: Portfolio v3 · KNK Trip Cart
+  - Exploring: Web3 · AI Agents · Hackathons
 
-interests:
+Interests:
   - Open Source Contributions
   - Hackathon sprints
   - Building useful side projects
   - Blockchain × AI crossovers
 
-fun_fact: I name my side projects before I start them
+Fun_fact: I name my side projects before I start them
 ```
 
 <br clear="right"/>
